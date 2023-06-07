@@ -1,4 +1,4 @@
-<h1>University Student Statistics Dashboard</h1>
+<h1> University Student Statistics Dashboard</h1>
 <p>This is a web page that displays statistical charts for university student data.</p>
 <h2>Features</h2>
 <ul>
